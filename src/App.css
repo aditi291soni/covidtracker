@@ -1,0 +1,43 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  /* font-family: Gilroy; */
+}
+.main{
+  /* height:80vh; */
+  width: 200vh ;
+  /* background-color: aqua; */
+  margin-top: 10vh;
+  font-size: 21px;
+}
+h1{
+  text-align: center;
+  font-weight: 200;
+}
+table {
+  border: 2px solid rgb(51, 50, 50);
+  border-collapse: collapse;
+  box-shadow: 10px solid grey;
+}
+table{
+  width: 170vh;
+  height: 40%;
+  margin-left: 15vh;
+  margin-top: 10vh;
+
+}
+tr{
+  height: 7vh;
+  /* width: 70vh; */
+  /* background-color: aqua; */
+}
+th{
+  text-align: left;
+  padding-left: 15px;
+  /* margin-left: 15px; */
+}
+thead{
+  background-color: black;
+  color: white;
+}
