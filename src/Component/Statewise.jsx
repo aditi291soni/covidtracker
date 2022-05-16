@@ -30,7 +30,7 @@ const Statewise = () => {
     
     <th >Deads</th>
     <th>Active</th>
-    <th>Updated</th>
+   
   </tr>
   </thead>
 
